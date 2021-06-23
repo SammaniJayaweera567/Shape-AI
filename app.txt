@@ -1,0 +1,10 @@
+
+-------------------------------------------------------------
+
+Weather Stats for - GALLE  || 23 Jun 2021 | 03:34:58 PM
+-------------------------------------------------------------
+
+Current temperature is: 28.01 deg C
+Current weather desc  :scattered clouds
+Current Humidity      :74%
+Current wind speed    :4.9kmph
